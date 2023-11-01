@@ -1,0 +1,50 @@
+repo_name: https-github-com-stackshareio/facebook
+report_id: e8dcb49e5f2cc5d6f4ff65c9ed2b3ca4
+repo_type: Public
+timestamp: '2023-11-01T20:42:33+00:00'
+requested_by: huandu
+provider: github
+branch: master
+detected_tools_count: 4
+tools:
+- name: Golang
+  description: An open source programming language that makes it easy to build simple,
+    reliable, and efficient software
+  website_url: http://golang.org/
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  imageURL: https://img.stackshare.io/service/1005/O6AczwfV_400x400.png
+  detection_source:
+  - Repo Metadata
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  imageURL: https://img.stackshare.io/service/1046/git.png
+  detection_source:
+  - Repo Metadata
+- name: Travis CI
+  description: A hosted continuous integration service for open source and private
+    projects
+  website_url: http://travis-ci.com/
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  imageURL: https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png
+  detection_source:
+  - ".travis.yml"
+- name: 'go '
+  description: Go will make you love programming again. I promise.
+  website_url: https://golang.org/
+  open_source: false
+  hosted_saas: false
+  imageURL: https://img.stackshare.io/service/3458/v02jhlxou71qagr6mwet_normal.png
+  detection_source:
+  - api.go
