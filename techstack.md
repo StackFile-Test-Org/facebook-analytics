@@ -22,7 +22,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [StackFile-Test-Org/facebook-analytics](https://github.com/StackFile-Test-Org/facebook-analytics)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|3<br/>Tools used|11/09/23 <br/>Report generated|
+|4<br/>Tools used|11/21/23 <br/>Report generated|
 |------|------|
 </div>
 
@@ -60,7 +60,20 @@ Full tech stack [here](/techstack.md)
 </tr>
 </table>
 
+## Other (1)
+<table><tr>
+  <td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/3458/v02jhlxou71qagr6mwet_normal.png' alt='go '>
+  <br>
+  <sub><a href="https://golang.org/">go </a></sub>
+  <br>
+  <sub></sub>
+</td>
+
+</tr>
+</table>
+
 <br/>
 <div align='center'>
 
-Generated via [Stack File](https://github.com/apps/stack-file)
+Generated via [Stack File](https://github.com/marketplace/stack-file)
